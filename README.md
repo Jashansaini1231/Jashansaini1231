@@ -1,9 +1,9 @@
 # Hii 👋 I'm Jahsan
 
 ## 👩‍💻 About Me
-- 🎓 M.Tech Graduate in Computer Science & Engineering  
-- 🌱 Currently exploring **Cybersecurity**, **Machine Learning**, and **Quantum Computing**  
-- 💻 Skilled in **C++, HTML, CSS**  
+- 🎓Bachelor's of Computer Application
+- 🌱 Currently pursuing my Bachelor's degree at CGC Landran 
+- 💻 Skilled in **C++, HTML, C, python**  
 - 📊 Passionate about Research & Development  
 
 ---
